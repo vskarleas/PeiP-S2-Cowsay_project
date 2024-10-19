@@ -128,6 +128,6 @@ If you're feeling creative, you can add additional features to enhance the game,
 
 ### License Information
 
-**PeiP-S2-Cowsay_project** © 2024 by **Vasileios Filippos Skarleas** and **Nada Yacine** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) and the MIT license. 
+**PeiP-S2-Cowsay_project** © 2021 by **Vasileios Filippos Skarleas** and **Nada Yacine** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) and the MIT license. 
 
 This work also includes content that is not the property of **Vasileios Filippos Skarleas** and **Nada Yacine** and is subject to copyright and other licenses from their respective owners.
